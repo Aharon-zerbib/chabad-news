@@ -6,7 +6,7 @@ header {
 }
 
 header ul {
-  flex-direction: column;
+  flex-direction: column; 
   place-self: stretch;
 }
 
